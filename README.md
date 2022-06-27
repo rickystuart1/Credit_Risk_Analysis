@@ -10,7 +10,7 @@
 
 ### SMOTE Model
 
-<p align='center'> <img src="images/smotesaccuracy.png"> </p>
+<p align='center'> <img src="images/smoteaccuracy.png"> </p>
 <p align='center'> <img src="images/smotecm.png"> </p>
 <p align='center'> <img src="images/smotecri.png"> </p>
 
