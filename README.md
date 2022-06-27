@@ -22,7 +22,7 @@
 
 ### SMOTEENN Model
 
-<p align='center'> <img src="images/smoteennsaccuracy.png"> </p>
+<p align='center'> <img src="images/smoteennaccuracy.png"> </p>
 <p align='center'> <img src="images/smoteenncm.png"> </p>
 <p align='center'> <img src="images/smoteenncri.png"> </p>
   
